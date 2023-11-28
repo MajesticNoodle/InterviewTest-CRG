@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/InterviewTest-CRG/static/css/main.f855e6bc.css",
-    "main.js": "/InterviewTest-CRG/static/js/main.1e520970.js",
+    "main.js": "/InterviewTest-CRG/static/js/main.0071e937.js",
     "static/js/787.5b533c54.chunk.js": "/InterviewTest-CRG/static/js/787.5b533c54.chunk.js",
     "index.html": "/InterviewTest-CRG/index.html",
     "main.f855e6bc.css.map": "/InterviewTest-CRG/static/css/main.f855e6bc.css.map",
-    "main.1e520970.js.map": "/InterviewTest-CRG/static/js/main.1e520970.js.map",
+    "main.0071e937.js.map": "/InterviewTest-CRG/static/js/main.0071e937.js.map",
     "787.5b533c54.chunk.js.map": "/InterviewTest-CRG/static/js/787.5b533c54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.1e520970.js"
+    "static/js/main.0071e937.js"
   ]
 }
