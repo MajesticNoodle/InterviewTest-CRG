@@ -2,8 +2,14 @@
  AJAX call for data through API and display
 
 Clone Repo
+
 Then open project to root folder
-Then run 
+
+Then run
+
+    npm i
+
+AND THEN
 
     npm start
 
