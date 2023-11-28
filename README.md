@@ -4,4 +4,7 @@
 Clone Repo
 Then open project to root folder
 Then run 
-npm start
+
+    npm start
+
+Then Access through a browser of your choice by using the following URL; http://localhost:3000/
